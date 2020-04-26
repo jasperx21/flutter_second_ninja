@@ -45,7 +45,7 @@ class _HomeState extends State<Home> {
                     color: textColor,
                   ),
                   label: Text(
-                    'Click here to Edit location',
+                    'Click here to Edit place',
                     style: TextStyle(
                       color: textColor,
                     ),
